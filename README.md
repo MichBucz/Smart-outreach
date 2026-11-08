@@ -173,4 +173,4 @@ belongs to the client. This repository intentionally contains none of it.
 
 ---
 
-**Author:** Michał Buczek · [LinkedIn / contact]
+**Author:** Michał Buczek · [LinkedIn](https://www.linkedin.com/in/michal-buczek-/)
