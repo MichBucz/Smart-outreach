@@ -14,8 +14,8 @@ and remain confidential.
 | | |
 |---|---|
 | **Client** | B2B consulting company (name withheld) |
-| **Period** | September 2026 – [end date] |
-| **Role** | Sole engineer — design, implementation, deployment and testing |
+| **Period** | July 2026 – October 2026 |
+| **Role** | AI Automation Architect — design, implementation, deployment and testing |
 | **Engagement** | Fixed-scope project delivered in milestones with defined acceptance criteria |
 | **Area** | Account-Based Marketing (ABM), workflow automation, applied LLMs |
 
